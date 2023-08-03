@@ -134,7 +134,8 @@ code {
 .album {
   width: 100%;
   height: 100%;
-  border: 5px solid #eeeeee;
+  /* border: 5px solid #eeeeee; */
+  border: 5px solid palegoldenrod;
   margin-block: 30px;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
@@ -154,7 +155,8 @@ code {
   padding-block: 5px;
   font-size: 1.1rem;
   font-weight: 700;
-  background-color: #eeeeee;
+  /* background-color: #eeeeee; */
+  background-color: palegoldenrod;
   transition: 0.3s;
 }
 
